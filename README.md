@@ -1,7 +1,9 @@
 # UAS-PBO
 
 Nama         : Yulia Wida Kharisma
+
 NIM          : 222212926
+
 No/Kelas : 37/2KS4
 
 Aplikasi Desktop Sistem Olah Nilai Mahasiswa Polstat STIS 
